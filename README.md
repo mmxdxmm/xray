@@ -1,0 +1,2 @@
+一键搭建Xray脚本
+不依赖于systemctl命令，对nobook友好
