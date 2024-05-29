@@ -6,7 +6,7 @@ builds.sh是原安装脚本。
 
 
 
-终端运行以下命令
+终端运行以下命令，如果出现错误，请尝试在命令前面加sudo
 
 git clone https://github.com/mmxdxmm/xray.git && chmod 777 ./xray/* && ./xray/xray.sh
 
