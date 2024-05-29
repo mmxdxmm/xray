@@ -1,6 +1,6 @@
 一键搭建Xray脚本
 不依赖于systemctl命令，对nobook友好
-Xray.sh是一键安装脚本，不需要输入或确定选项（如需修改选项请参照"install.sh"）。
+Xray.sh是一键安装脚本，不需要输入或确定选项（如需修改选项请参照"builds.sh"）。
 instal.sh是原安装脚本。
 
 
