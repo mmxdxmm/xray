@@ -8,8 +8,8 @@ builds.sh是原安装脚本。
 
 终端运行以下命令
 
-git clone https://github.com/mmxdxmm/xray.git & chmod 777 ./xray/* & ./xray/xray.sh
+git clone https://github.com/mmxdxmm/xray.git && chmod 777 ./xray/* && ./xray/xray.sh
 
 nobook需要在命令前面加上英文的感叹号
 
-!git clone https://github.com/mmxdxmm/xray.git & chmod 777 ./xray/* & ./xray/xray.sh
+!git clone https://github.com/mmxdxmm/xray.git && chmod 777 ./xray/* && ./xray/xray.sh
