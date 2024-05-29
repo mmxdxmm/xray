@@ -11,6 +11,7 @@ builds.sh是原安装脚本。
 git clone https://github.com/mmxdxmm/xray.git && chmod 777 ./xray/* && ./xray/xray.sh
 
 或者
+
 wget https://raw.githubusercontent.com/mmxdxmm/xray/main/xray.sh && chmod 777 ./xray.sh && ./xray.sh
 
 
