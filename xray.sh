@@ -3,9 +3,9 @@
 # 设置默认值
 task_type='install'
 build_projects='3'
-xray_install_directory='/usr/local/xray'
+xray_install_directory='/var/cache/xray'
 xray_inbounds_options='4'
-vmess_ws_port='54321'
+vmess_ws_port='123456'
 vmess_ws_path='/'
 xray_UPX='n'
 daemon_run='y'
